@@ -3,3 +3,7 @@ bla cla bla
  2 bla cla bla
 
  Ajuste para comitar 1
+
+ Desfazendo o commite 1
+ Desfazendo o commite 1
+ Desfazendo o commite 1
