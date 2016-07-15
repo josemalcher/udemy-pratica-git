@@ -5,3 +5,6 @@ bla cla bla
  Ajuste para comitar 1
 
 Ajustando dentro da Bransh Design
+
+Ajuste no branch DESIGN que será mesclada na master
+Ajuste no design que será mesclada no master
